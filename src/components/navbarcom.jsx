@@ -13,7 +13,7 @@ class NavBarCom extends React.Component {
             <Nav className="">
               <a
                 href="https://forms.gle/ajUgPJcLDzq3J2uq7"
-                className="Contribute"
+                className="contribute"
               >
                 Contribute
               </a>
