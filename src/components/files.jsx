@@ -21,7 +21,7 @@ class Files extends React.Component {
     return (
       <div>
         <div className="row">
-          <div className="col-sm-4 col-d-3 col-12">
+          <div className="col-sm-3 col-d-3 col-12">
             <TreeMenu
               data={this.state.tabs == "licence" ? licence : master}
               onClickItem={({ gd_id, key, label, ...props }) => {
@@ -29,14 +29,16 @@ class Files extends React.Component {
               }}
             />
           </div>
-          <div className="col-sm-8  col-d-9 col-12">
+          <div className="col-sm-9  col-d-9 col-12">
             <Tabs
               defaultActiveKey="licence"
-              onSelect={(k) => this.setState({ tabs: k })}
+              onSelect={(k) => this.setState({ tabs: k, googleDriveId: "" })}
             >
               <Tab eventKey="licence" title="Licence">
                 {this.state.googleDriveId == "" ? (
-                  <h1 className="m-4">Please select your speciality</h1>
+                  <h1 className="m-4">
+                    Please select a speciality, then the year of study
+                  </h1>
                 ) : (
                   <iframe
                     src={
@@ -50,7 +52,9 @@ class Files extends React.Component {
               </Tab>
               <Tab eventKey="master" title="Master">
                 {this.state.googleDriveId == "" ? (
-                  <h1 className="m-4">Please select your speciality</h1>
+                  <h1 className="m-4">
+                    Please select a speciality, then the year of study
+                  </h1>
                 ) : (
                   <iframe
                     src={
