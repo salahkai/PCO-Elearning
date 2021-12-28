@@ -12,7 +12,7 @@ class NavBarCom extends React.Component {
             <Navbar.Brand href="#">Ouargla E-Learning</Navbar.Brand>
             <Nav className="">
               <a
-                href="https://forms.gle/ZEu6v3DJqvCpztCA8"
+                href="https://forms.gle/ajUgPJcLDzq3J2uq7"
                 className="Contribute"
               >
                 Contribute
