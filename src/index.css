@@ -67,3 +67,6 @@ body {
 .contribute:hover {
   color: white;
 }
+contribute:visited {
+  color: white;
+}
