@@ -4,14 +4,10 @@
 /* data */
 /* data */
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
-/* @media (max-width: 750px) {
-  h1 {
-    font-size: 448px;
-  }
-} */
+/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap"); */
+
 .navbar {
-  font-family: "Inter", sans-serif;
+  /* font-family: "Inter", sans-serif; */
 }
 .nav-bar-spaces {
   margin-bottom: 10px;
