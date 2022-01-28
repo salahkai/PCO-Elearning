@@ -40,16 +40,15 @@ const Branches = () => {
                             {c.branches.map((d) => (
                               <ListGroup>
                                 <LinkContainer
-                                  to={`/files?speciality=${speciality.replace(
-                                    regex,
-                                    "_"
-                                  )}&diplome=${b.name.replace(
-                                    regex,
-                                    "_"
-                                  )}&year=${c.name.replace(
-                                    regex,
-                                    "_"
-                                  )}&branch=${d.name.replace(regex, "_")}`}
+                                  to={`/files?speciality=${speciality
+                                    .replace(regex, "_")
+                                    .toLowerCase()}&diplome=${b.name
+                                    .replace(regex, "_")
+                                    .toLowerCase()}&year=${c.name
+                                    .replace(regex, "_")
+                                    .toLowerCase()}&branch=${d.name
+                                    .replace(regex, "_")
+                                    .toLowerCase()}`}
                                 >
                                   <ListGroup.Item action className="border-0">
                                     {d.name}

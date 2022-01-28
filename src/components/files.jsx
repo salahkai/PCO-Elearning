@@ -15,12 +15,8 @@ class Files extends React.Component {
     this.setState({ tabs: key });
   };
   render() {
-    // console.log(queryString.parse(window.location.search));
     const query = queryString.parse(window.location.search);
     const { speciality, diplome, year, branch } = query;
-    // console.log(diplome, speciality, year);
-    // console.log(hydrocarbons.licence.third_year.production_professional);
-    // console.log(hydrocarbons[diplome][year][speciality]);
     return (
       <div className="mt-3 px-5 d-flex flex-column min-vh-100">
         <div className="row">
