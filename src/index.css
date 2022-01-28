@@ -1,7 +1,18 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+/* data */
+/* data */
+/* data */
+/* data */
+/* data */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap");
+
+/* @media (max-width: 750px) {
+  h1 {
+    font-size: 448px;
+  }
+} */
+.navbar {
+  font-family: "Inter", sans-serif;
 }
 .nav-bar-spaces {
   margin-bottom: 10px;
@@ -14,6 +25,15 @@ body {
   height: 600px;
   border: 0;
 }
+/* .first-body {
+  height: 100%;
+  background-image: url(./img/wave.svg);
+  background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  background-size: cover;
+} */
+
 .rstm-toggle-icon {
   display: inline-block;
 }
@@ -59,14 +79,59 @@ body {
   border: none;
   width: 100%;
 }
-.contribute {
+.nav-a {
   color: white;
   font-weight: bold;
   text-decoration: none;
 }
-.contribute:hover {
+.nav-a:hover {
   color: white;
 }
-.contribute:visited {
+.nav-a:visited {
   color: white;
+}
+
+.specialities-div {
+  background-color: #0d6efd;
+}
+.nav-color {
+  color: white;
+}
+.specialities-svg {
+  bottom: 0;
+  left: 0;
+}
+
+.specialities-img {
+  position: relative;
+}
+.bg-test {
+  background: linear-gradient(
+    142.76deg,
+    #afacfb33 0.58%,
+    #7cff91 151.76%,
+    #a3dc4e 151.76%,
+    #a3dc4e 151.76%,
+    #a3dc4e 151.76%
+  );
+}
+/* .bg-test2 {
+  height: 100%;
+  background-image: url(src/img/wave.svg);
+  background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  background-size: cover;
+} */
+.pattern {
+  position: absolute;
+  z-index: -1;
+  opacity: 0.15;
+}
+/* .test2 {
+  z-index: 1;
+} */
+
+.navbar .navbar-collapse {
+  text-align: center;
 }

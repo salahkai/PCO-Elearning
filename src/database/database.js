@@ -1,272 +1,316 @@
-export const licence = [
-  {
-    key: "re",
-    gd_id: "",
-    label: "Renewable Energies",
-    nodes: [
-      {
-        key: "1RoNQQUowONLWwX_C1JChbYpjGZoQ9hYt",
-        gd_id: "1RoNQQUowONLWwX_C1JChbYpjGZoQ9hYt",
-        label: "First Year",
-      },
-      {
-        key: "1cI5bB0yYe7XABriNodsDHXfEeiuyrldn",
-        gd_id: "1cI5bB0yYe7XABriNodsDHXfEeiuyrldn",
-        label: "Second Year",
-      },
-      {
-        key: "1d0u9OJXJ7NxWadbg3ZQKuOuz0sxn2RC2",
-        gd_id: "1d0u9OJXJ7NxWadbg3ZQKuOuz0sxn2RC2",
-        label: "Third Year",
-      },
-    ],
-  },
-  {
-    key: "hc",
-    gd_id: "",
-    label: "Hydrocarbons",
-    nodes: [
-      {
-        key: "19dJgOICqyr5uQSiy_19Fnuoqg6BsSfQM",
-        gd_id: "19dJgOICqyr5uQSiy_19Fnuoqg6BsSfQM",
-        label: "First Year",
-      },
-      {
-        key: "1Ay1LNl9GqaH7JeKzLmhtgdVSFvlejh9F",
-        gd_id: "1Ay1LNl9GqaH7JeKzLmhtgdVSFvlejh9F",
-        label: "Professional Production ",
-        nodes: [
-          {
-            key: "1Dfm0fo6q-EBHYGUff0VcjpmQrUCekdIP",
-            gd_id: "1Dfm0fo6q-EBHYGUff0VcjpmQrUCekdIP",
-            label: "Second Year",
-          },
-          {
-            key: "12Wx2VhZmp8WP2DUM3Uca2_04nC8Ddvaf",
-            gd_id: "12Wx2VhZmp8WP2DUM3Uca2_04nC8Ddvaf",
-            label: "Third Year",
-          },
-        ],
-      },
-      {
-        key: "1dutwIlIBnRE8Qahfn2PmFHpdR3amdlGd",
-        gd_id: "1dutwIlIBnRE8Qahfn2PmFHpdR3amdlGd",
-        label: "Academic Production",
-        nodes: [
-          {
-            key: "1U2xKq3HDMv_vSsr2dkSKNtNfXYVtiKZ1",
-            gd_id: "1U2xKq3HDMv_vSsr2dkSKNtNfXYVtiKZ1",
-            label: "Second Year",
-          },
-          {
-            key: "1jRszq9E9PZ-xlUWvCbQgM0KpU7EhLcCT",
-            gd_id: "1jRszq9E9PZ-xlUWvCbQgM0KpU7EhLcCT",
-            label: "Third Year",
-          },
-        ],
-      },
-      {
-        key: "1rX8-hPUotfWnF2Nv44ycD-Y-Hf_CcdDs",
-        gd_id: "1rX8-hPUotfWnF2Nv44ycD-Y-Hf_CcdDs",
-        label: "Oil Rig Mechanics",
-        nodes: [
-          {
-            key: "1ntmVnLigg5CQKyXU7mbQoqfgEFhqlcRn",
-            gd_id: "1ntmVnLigg5CQKyXU7mbQoqfgEFhqlcRn",
-            label: "Second Year",
-          },
-          {
-            key: "12hmokcRaASFJXiHmpg46Hf1n-GNHaAH5",
-            gd_id: "12hmokcRaASFJXiHmpg46Hf1n-GNHaAH5",
-            label: "Third Year",
-          },
-        ],
-      },
-      {
-        key: "1G6jFeTT1eXserzWFWy20duTGjc2jXHFa",
-        gd_id: "1G6jFeTT1eXserzWFWy20duTGjc2jXHFa",
-        label: "Drilling",
-        nodes: [
-          {
-            key: "1fu6LFwKJZLFB_3lJQ4ScN0goiR-tWJDh",
-            gd_id: "1fu6LFwKJZLFB_3lJQ4ScN0goiR-tWJDh",
-            label: "Second Year",
-          },
-          {
-            key: "1wAWeqrUmE2AvaeT2uYyOa3VwryGvHDfY",
-            gd_id: "1wAWeqrUmE2AvaeT2uYyOa3VwryGvHDfY",
-            label: "Third Year",
-          },
-        ],
-      },
-    ],
-  },
-  {
-    key: "gg",
-    gd_id: "",
-    label: "Geology",
-    nodes: [
-      {
-        key: "1Amo5LjzEkvcWROoBRG9xk-OosahV22TH",
-        gd_id: "1Amo5LjzEkvcWROoBRG9xk-OosahV22TH",
-        label: "First Year",
-      },
-      {
-        key: "1M7oLUjyPFwT_36lfbhgySaSO7z7xeeFD",
-        gd_id: "1M7oLUjyPFwT_36lfbhgySaSO7z7xeeFD",
-        label: "Second Year",
-      },
-      {
-        key: "1EuTMK5C11V2cJcX5r0RsjvjUn86YW8Bs",
-        gd_id: "1EuTMK5C11V2cJcX5r0RsjvjUn86YW8Bs",
-        label: "Third Year",
-      },
-    ],
-  },
-];
-export const master = [
-  {
-    key: "1UXoQudkaerqY8oq0omV1CkS5_rk473pA",
-    gd_id: "",
-    label: "Hydrocarbons",
-    nodes: [
-      {
-        key: "1XppTsMUzXgrs7DoGi_ypjpOTXEOu9PR1",
-        gd_id: "1XppTsMUzXgrs7DoGi_ypjpOTXEOu9PR1",
-        label: "Oil Rig Mechanics",
-        nodes: [
-          {
-            key: "19-JAXun16-teoi0UipzQLOth2J5MLlt5",
-            gd_id: "19-JAXun16-teoi0UipzQLOth2J5MLlt5",
-            label: "First Year",
-          },
-          {
-            key: "1hpOo_jCqZfnOq5-P-Z_EhwPIvNZSXkVX",
-            gd_id: "1hpOo_jCqZfnOq5-P-Z_EhwPIvNZSXkVX",
-            label: "Second Year",
-          },
-        ],
-      },
-      {
-        key: "13PL1Je7hMrrMepP-svcvsQYhKiza-BLR",
-        gd_id: "13PL1Je7hMrrMepP-svcvsQYhKiza-BLR",
-        label: "Academic Production ",
-        nodes: [
-          {
-            key: "1wad5N69y5nEkJcCzkKS0x1dnEamKx66J",
-            gd_id: "1wad5N69y5nEkJcCzkKS0x1dnEamKx66J",
-            label: "First Year",
-          },
-          {
-            key: "1bAbH0b9FRzvZnAC1G7Xo4xihnRWasJvh",
-            gd_id: "1bAbH0b9FRzvZnAC1G7Xo4xihnRWasJvh",
-            label: "Second Year",
-          },
-        ],
-      },
-      {
-        key: "1EgJjfsSf_Qxoqw6-dsF3wUpd7X6qQ1px",
-        gd_id: "1EgJjfsSf_Qxoqw6-dsF3wUpd7X6qQ1px",
-        label: "Professional Production",
-        nodes: [
-          {
-            key: "1ulHOOqeNkA4O7iCBXojlm5828Em8BuHH",
-            gd_id: "1ulHOOqeNkA4O7iCBXojlm5828Em8BuHH",
-            label: "First Year",
-          },
-          {
-            key: "1MP963SYSJL7eGhkB4i5Du3Ad9FnIwNpZ",
-            gd_id: "1MP963SYSJL7eGhkB4i5Du3Ad9FnIwNpZ",
-            label: "Second Year",
-          },
-        ],
-      },
-      {
-        key: "18d744po-oznyh0prW-yDF8G0J3HVIQbN",
-        gd_id: "18d744po-oznyh0prW-yDF8G0J3HVIQbN",
-        label: "Drilling",
-        nodes: [
-          {
-            key: "1R9rspOTIz5xozxDINPTSIG-27WlySdnT",
-            gd_id: "1R9rspOTIz5xozxDINPTSIG-27WlySdnT",
-            label: "First Year",
-          },
-          {
-            key: "1AiyzHmp1WrrDN7nThcLB_AxjOaXqy8mP",
-            gd_id: "1AiyzHmp1WrrDN7nThcLB_AxjOaXqy8mP",
-            label: "Second Year",
-          },
-        ],
-      },
-    ],
-  },
-  {
-    key: "1Z3Qv-yz1bkJ9X3dvJ-MfFaHTkhWSCNA7",
-    gd_id: "",
-    label: "Renewable Energies",
-    nodes: [
-      {
-        key: "1goNTVIAakVYYC2JP2JvMaV4Dmyjo63iM",
-        gd_id: "1goNTVIAakVYYC2JP2JvMaV4Dmyjo63iM",
-        label: "First Year",
-      },
-      {
-        key: "1XTk_Hc5P31_99abKFK1QYa6TgGaCSjh6",
-        gd_id: "1XTk_Hc5P31_99abKFK1QYa6TgGaCSjh6",
-        label: "Second Year",
-      },
-    ],
-  },
-  {
-    key: "1OJg6GzAD5_vhA_fhwZadf19V6GXls8pL",
-    gd_id: "",
+import hc from "../img/specialities/hc.png";
+import geo from "../img/specialities/geo.png";
+import re from "../img/specialities/re.png";
 
-    label: "Geology",
-    nodes: [
+export const branches = [
+  {
+    speciality: "Hydrocarbons",
+    id: 0,
+    year_of_study: [
       {
-        key: "1hqztjwqBSYfRgrrfckJlrxUlnwAfAS5W",
-        gd_id: "1hqztjwqBSYfRgrrfckJlrxUlnwAfAS5W",
-        label: "Fundamental Geology",
-        nodes: [
+        name: "Licence",
+        years: [
           {
-            key: "1XAqyEPK_D_N1ClutKXFMgWaBYReBWKCL",
-            gd_id: "1XAqyEPK_D_N1ClutKXFMgWaBYReBWKCL",
-            label: "First Year",
+            name: "First year",
+            branches: [{ name: "Common year", link: "#" }],
+            id: "0",
           },
           {
-            key: "1VG32zW3170CvKdcROpo-ZFj39frQkGEq",
-            gd_id: "1VG32zW3170CvKdcROpo-ZFj39frQkGEq",
-            label: "Second Year",
-          },
-        ],
-      },
-      {
-        key: "1Wi5-W6ZeETzqKveD0aMEhf48kpvAPUPF",
-        gd_id: "1Wi5-W6ZeETzqKveD0aMEhf48kpvAPUPF",
-        label: "Geology Of Hydrocarbons",
-      },
-      {
-        key: "1gP3dIFhLL5VkBXPm7uTEv_JU35DCDFyv",
-        gd_id: "1gP3dIFhLL5VkBXPm7uTEv_JU35DCDFyv",
-        label: "Hydrogeology",
-        nodes: [
-          {
-            key: "1WSZulRrYAvPpEdMI-rOJG5C8MH87JjMM",
-            gd_id: "1WSZulRrYAvPpEdMI-rOJG5C8MH87JjMM",
-            label: "First Year",
+            name: "Second year",
+            branches: [
+              { name: "Production professional", link: "#" },
+              { name: "Production academic", link: "#" },
+              { name: "Drilling", link: "#" },
+              { name: "Oil Rig Mechanics", link: "#" },
+            ],
+            id: "1",
           },
           {
-            key: "1uGOa48OLt24yCCLKRZNxA8k8ej9STV3u",
-            gd_id: "1uGOa48OLt24yCCLKRZNxA8k8ej9STV3u",
-            label: "Second Year",
+            name: "Third year",
+            branches: [
+              { name: "Production professional", link: "#" },
+              { name: "Production academic", link: "#" },
+              { name: "Drilling", link: "#" },
+              { name: "Oil Rig Mechanics", link: "#" },
+            ],
+            id: "2",
           },
         ],
       },
       {
-        key: "1_qz6t0CRV824QmRFsuHv3ICBQ-oeoMBh",
-        gd_id: "1_qz6t0CRV824QmRFsuHv3ICBQ-oeoMBh",
-        label: "Petroleum Geology",
+        name: "Master",
+        years: [
+          {
+            name: "First year",
+            branches: [
+              { name: "Production professional", link: "#" },
+              { name: "Production academic", link: "#" },
+              { name: "Drilling", link: "#" },
+              { name: "Oil Rig Mechanics", link: "#" },
+            ],
+            id: "0",
+          },
+          {
+            name: "Second year",
+            branches: [
+              { name: "Production professional", link: "#" },
+              { name: "Production academic", link: "#" },
+              { name: "Drilling", link: "#" },
+              { name: "Oil Rig Mechanics", link: "#" },
+            ],
+            id: "1",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    speciality: "Geology",
+    id: 1,
+    year_of_study: [
+      {
+        name: "Licence",
+        years: [
+          {
+            name: "First year",
+            branches: [{ name: "Common year", link: "#" }],
+            id: "0",
+          },
+          {
+            name: "Second year",
+            branches: [{ name: "Common year", link: "#" }],
+            id: "1",
+          },
+          {
+            name: "Third year",
+            branches: [
+              { name: "Applied Geology", link: "#" },
+              { name: "Fondamental Geology", link: "#" },
+            ],
+            id: "2",
+          },
+        ],
+      },
+      {
+        name: "Master",
+        years: [
+          {
+            name: "First year",
+            branches: [
+              { name: "Fundamental Geology", link: "#" },
+              { name: "Geology Of Hydrocarbons", link: "#" },
+              { name: "Hydrogeology", link: "#" },
+              { name: "Petroleum Geology", link: "#" },
+            ],
+            id: "0",
+          },
+          {
+            name: "Second year",
+            branches: [
+              { name: "Fundamental Geology", link: "#" },
+              { name: "Geology Of Hydrocarbons", link: "#" },
+              { name: "Hydrogeology", link: "#" },
+              { name: "Petroleum Geology", link: "#" },
+            ],
+            id: "1",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    speciality: "Renewable Energies",
+    id: 2,
+    year_of_study: [
+      {
+        name: "Licence",
+        years: [
+          {
+            name: "First year",
+            branches: [{ name: "Common year", link: "#" }],
+            id: "0",
+          },
+          {
+            name: "Second year",
+            branches: [{ name: "Applied Renewable Energy", link: "#" }],
+            id: "1",
+          },
+          {
+            name: "Third year",
+            branches: [{ name: "Applied Renewable Energy", link: "#" }],
+            id: "2",
+          },
+        ],
+      },
+      {
+        name: "Master",
+        years: [
+          {
+            name: "First year",
+            branches: [{ name: "Renewable Energy in Mechanics", link: "#" }],
+            id: "0",
+          },
+          {
+            name: "Second year",
+            branches: [{ name: "Renewable Energy in Mechanics", link: "#" }],
+            id: "1",
+          },
+        ],
       },
     ],
   },
 ];
+
+export const specialities = [
+  {
+    name: "Hydrocarbons",
+    id: 0,
+    bg: hc,
+    text: "A field of engineering concerned exploration and production of Hydrocarbons",
+    link: "#",
+    svg: "M0,256L48,261.3C96,267,192,277,288,288C384,299,480,309,576,293.3C672,277,768,235,864,224C960,213,1056,235,1152,218.7C1248,203,1344,149,1392,122.7L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z",
+  },
+  {
+    name: "Geology",
+    id: 1,
+    bg: geo,
+    text: "A science that deals with the history of the earth and its life especially as recorded in rocks",
+    link: "#",
+    svg: "M0,192L120,208C240,224,480,256,720,272C960,288,1200,288,1320,288L1440,288L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z",
+  },
+  {
+    name: "RenewableEnergies",
+    id: 2,
+    bg: re,
+    text: "An engineering field that focuses on the production of energy from renewable or sustainable sources",
+    link: "#",
+    svg: "M0,256L1440,160L1440,320L0,320Z",
+  },
+];
+export const files = {
+  hydrocarbons: {
+    licence: {
+      first_year: { common_year: [] },
+      second_year: {
+        production_professional: [],
+        production_academic: [],
+        drilling: [],
+        oil_rig_mechanics: [],
+      },
+      third_year: {
+        production_professional: [
+          {
+            gd_id: "",
+            label: "Professional Production",
+            key: "17Rhc6GYSyiWByQVELg6hzrvUBvqopjdR",
+            nodes: [
+              {
+                label: "First semester",
+                key: "1jOz7aLaQXm3YyFNkZ1Ak9ssM1GzSzU_B",
+                nodes: [
+                  {
+                    key: "1gqp2VCNclwe4z_J58hGGmp9t9TP2FRCq",
+                    nodes: [
+                      {
+                        label: "Others",
+                        key: "1Cx9u5W_lFtDjklGM9SC2lcS_S_G7-KEM",
+                        gd_id: "1Cx9u5W_lFtDjklGM9SC2lcS_S_G7-KEM",
+                        nodes: [],
+                      },
+                      {
+                        label: "Exams",
+                        gd_id: "1GgjpgY18pfvcRrrgHS-ZnwqZAm9dymQB",
+                        nodes: [
+                          {
+                            label: "Rattrapage",
+                            nodes: [],
+                            key: "15C0pSrUGgofR3G_ArVFppLB1cLFWUWQa",
+                            gd_id: "15C0pSrUGgofR3G_ArVFppLB1cLFWUWQa",
+                          },
+                          {
+                            key: "1cUQFMm4GbVsL9J0vkMilPCEN2hZjRloh",
+                            nodes: [
+                              {
+                                label: "2",
+                                gd_id: "1DoDlcdVO_EZ-bk0p2OdrToE81koO24lh",
+                                key: "1DoDlcdVO_EZ-bk0p2OdrToE81koO24lh",
+                                nodes: [],
+                              },
+                              {
+                                nodes: [],
+                                key: "1ZL4J2WACIj7gphWX3H-bh43-SmLMlOGm",
+                                label: "3",
+                                gd_id: "1ZL4J2WACIj7gphWX3H-bh43-SmLMlOGm",
+                              },
+                              {
+                                nodes: [],
+                                label: "1",
+                                gd_id: "1ZgXjnxKZs1eYs0GZkun_8u80G4kBGM3T",
+                                key: "1ZgXjnxKZs1eYs0GZkun_8u80G4kBGM3T",
+                              },
+                            ],
+                            gd_id: "1cUQFMm4GbVsL9J0vkMilPCEN2hZjRloh",
+                            label: "Avec solution",
+                          },
+                          {
+                            gd_id: "1hRlzV1MJNIRwSVcQRdeAHRJSYd3NPXSQ",
+                            nodes: [],
+                            key: "1hRlzV1MJNIRwSVcQRdeAHRJSYd3NPXSQ",
+                            label: "Controle td",
+                          },
+                        ],
+                        key: "1GgjpgY18pfvcRrrgHS-ZnwqZAm9dymQB",
+                      },
+                      {
+                        key: "1skvEcYrk-pR6vvF8IQ2ZFR2bI6MxphcX",
+                        gd_id: "1skvEcYrk-pR6vvF8IQ2ZFR2bI6MxphcX",
+                        label: "Td & exercices",
+                        nodes: [
+                          {
+                            key: "1o3s34zz-T4hCJvy61Ra9Rt4K4-6c6TTk",
+                            gd_id: "1o3s34zz-T4hCJvy61Ra9Rt4K4-6c6TTk",
+                            label: "Td 4 similar",
+                            nodes: [],
+                          },
+                        ],
+                      },
+                      {
+                        key: "1zserDbSpKY74lL0T2r65CBdGI8GelPMS",
+                        label: "Courses",
+                        nodes: [],
+                        gd_id: "1zserDbSpKY74lL0T2r65CBdGI8GelPMS",
+                      },
+                    ],
+                    label: "Collecte et Séparation 1",
+                    gd_id: "1gqp2VCNclwe4z_J58hGGmp9t9TP2FRCq",
+                  },
+                ],
+                gd_id: "1jOz7aLaQXm3YyFNkZ1Ak9ssM1GzSzU_B",
+              },
+            ],
+          },
+        ],
+        production_academic: [],
+        drilling: [],
+        oil_rig_mechanics: [],
+      },
+    },
+    master: {
+      first_year: {
+        production_professional: [],
+        production_academic: [],
+        drilling: [],
+        oil_rig_mechanics: [],
+      },
+      second_year: {
+        production_professional: [],
+        production_academic: [],
+        drilling: [],
+        oil_rig_mechanics: [],
+      },
+    },
+  },
+};
+
+export const geology = [];
+export const Renewable_Energies = [];
