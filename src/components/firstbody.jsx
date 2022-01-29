@@ -11,7 +11,7 @@ class FirstBody extends Component {
           <div className="col-md-4 order-md-1">
             <img src={img1}></img>
           </div>
-          <div className="col-md-7 order-md-0 test2 m-1 m-md-2">
+          <div className="col-md-7 order-md-0  m-0 mt-4 m-md-2">
             <h1 className="display-4">
               <b>Welcome to</b>
               <b style={{ color: "#0d6efd" }}> Knowy.</b>
