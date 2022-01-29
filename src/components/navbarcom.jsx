@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Container, Navbar, Nav } from "react-bootstrap";
 import Link from "react-router-dom";
-import logo from "../img/logo.png";
+import logo from "../img/logo.svg";
 
 import { LinkContainer } from "react-router-bootstrap";
 
@@ -22,13 +22,13 @@ class NavBarCom extends React.Component {
           <Container>
             <LinkContainer to="/">
               <Navbar.Brand>
-                {/* <img
-                alt=""
-                src={logo}
-                width="36"
-                height="44"
-                className="d-inline-block align-top"
-              />{" "} */}
+                <img
+                  alt=""
+                  src={logo}
+                  width="36"
+                  height="32"
+                  className="d-inline-block align-top"
+                />{" "}
                 Knowy
               </Navbar.Brand>
             </LinkContainer>

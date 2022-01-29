@@ -28,7 +28,7 @@ class Specialities extends Component {
               >
                 {specialities.map((a) => (
                   <Card
-                    className="shadow-lg mx-0 p-0 border-0 rounded-4 my-4"
+                    className="shadow-lg mx-0 p-0 border-0 rounded-4 my-3"
                     style={{ width: "19rem" }}
                   >
                     <div className="position-relative ">
@@ -36,8 +36,8 @@ class Specialities extends Component {
                         variant="top"
                         src={a.bg}
                         className="p-0 m-0"
-                        width="304 "
-                        height="242"
+                        // width="304"
+                        // height="242"
                       />
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
