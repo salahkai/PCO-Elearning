@@ -7,7 +7,11 @@ class Specialities extends Component {
   render() {
     return (
       <React.Fragment>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <svg
+          className="testt"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 1440 320"
+        >
           <path
             fill="#0d6efd"
             fill-opacity="1"
@@ -15,7 +19,7 @@ class Specialities extends Component {
           ></path>
         </svg>
         <div className="mb-5" id="specialities">
-          <div className="specialities-div p-5 pt-0 ">
+          <div className="specialities-div p-0 p-0 pt-0 ">
             <Row xs={1} md={2} className="justify-content-evenly p-5 pt-0 ">
               {specialities.map((a) => (
                 <Card
@@ -32,7 +36,7 @@ class Specialities extends Component {
                     />
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 1440 320"
+                      viewBox="0 0 1440 312"
                       className=" w-100 specialities-svg position-absolute"
                     >
                       <path fill="#ffffff" fill-opacity="1" d={a.svg}></path>

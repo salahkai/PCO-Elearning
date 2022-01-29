@@ -7,11 +7,11 @@ class FirstBody extends Component {
   render() {
     return (
       <React.Fragment>
-        <div className="row my-sm-5 mx-sm-5 pb-0 px-5 mx-0 ">
-          <div className="col-sm-4 order-sm-1">
-            <img width="373" height="356" src={img1}></img>
+        <div className="row my-sm-5 mx-sm-5  pb-0 px-0 mx-0 ">
+          <div className="col-md-4 order-md-1">
+            <img src={img1}></img>
           </div>
-          <div className="col-sm-8 order-sm-0 test2 m-4 m-sm-0">
+          <div className="col-md-7 order-md-0 test2 m-1 m-md-2">
             <h1 className="display-4">
               <b>Welcome to</b>
               <b style={{ color: "#0d6efd" }}> Knowy.</b>
@@ -22,7 +22,7 @@ class FirstBody extends Component {
               unique design and direct links. all that with the help of students
               and for students.
             </p>
-            <div className="row mt-sm-5">
+            <div className="row mt-sm-5 m-0">
               <Button
                 variant="primary"
                 size="lg"
