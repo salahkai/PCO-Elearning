@@ -6,8 +6,6 @@ import TreeMenu from "react-simple-tree-menu";
 class Files extends React.Component {
   state = {
     speciality: "hydrocarbons",
-    yearOfStudy: "1",
-    branche: "pp",
     googleDriveId: "",
   };
 

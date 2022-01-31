@@ -194,7 +194,7 @@ export const files = {
         common_year: [
           {
             key: "1IaYpTXeMHb8MT43z0w3py8Vfrpd7VG9a",
-            gd_id: "",
+            gd_id: "1IaYpTXeMHb8MT43z0w3py8Vfrpd7VG9a",
             label: "First semester",
             nodes: [
               {
@@ -261,7 +261,7 @@ export const files = {
           },
           {
             key: "1IV68TIoAuo1vJr06Uzf1-DODUD5MJeHm",
-            gd_id: "",
+            gd_id: "1IV68TIoAuo1vJr06Uzf1-DODUD5MJeHm",
             label: "Second semester",
             nodes: [
               {
@@ -332,7 +332,7 @@ export const files = {
         production_professional: [
           {
             key: "1IFPokj0eK78bP00CiqGp-UMH_NrM2kGQ",
-            gd_id: "",
+            gd_id: "1IFPokj0eK78bP00CiqGp-UMH_NrM2kGQ",
             label: "First semester",
             nodes: [
               {
@@ -399,7 +399,7 @@ export const files = {
           },
           {
             key: "1I7-Donp9j-QiLBkrgwGYRIWsS4B9FZaZ",
-            gd_id: "",
+            gd_id: "1I7-Donp9j-QiLBkrgwGYRIWsS4B9FZaZ",
             label: "Second semester",
             nodes: [
               {
@@ -474,7 +474,7 @@ export const files = {
         production_academic: [
           {
             key: "1IPRtpIkQ1yBhFSRNdWyHkh1v69dyR7pH",
-            gd_id: "",
+            gd_id: "1IPRtpIkQ1yBhFSRNdWyHkh1v69dyR7pH",
             label: "First semester",
             nodes: [
               {
@@ -547,7 +547,7 @@ export const files = {
           },
           {
             key: "1ILOhZr61DwsdSh60d53Iw0ntGj8qiN8p",
-            gd_id: "",
+            gd_id: "1ILOhZr61DwsdSh60d53Iw0ntGj8qiN8p",
             label: "Second semester",
             nodes: [],
           },
@@ -555,7 +555,7 @@ export const files = {
         drilling: [
           {
             key: "1IKs4bJSAXmBJLyv1iF8-JdDEhITLD0Zv",
-            gd_id: "",
+            gd_id: "1IKs4bJSAXmBJLyv1iF8-JdDEhITLD0Zv",
             label: "First semester",
             nodes: [
               {
@@ -616,7 +616,7 @@ export const files = {
           },
           {
             key: "1IKXLnptBZnk3DMikdloRPMEOrzVFXhnY",
-            gd_id: "",
+            gd_id: "1IKXLnptBZnk3DMikdloRPMEOrzVFXhnY",
             label: "Second semester",
             nodes: [
               {
@@ -673,7 +673,7 @@ export const files = {
         oil_rig_mechanics: [
           {
             key: "1IIUMp0rV1z3gtxxl23VYL56a0qsYMhmd",
-            gd_id: "",
+            gd_id: "1IIUMp0rV1z3gtxxl23VYL56a0qsYMhmd",
             label: "First semester",
             nodes: [
               {
@@ -734,7 +734,7 @@ export const files = {
           },
           {
             key: "1IGN192PIYL78oKVbrN_K5zXm9w6u4_ZG",
-            gd_id: "",
+            gd_id: "1IGN192PIYL78oKVbrN_K5zXm9w6u4_ZG",
             label: "Second semester",
             nodes: [
               {
@@ -799,7 +799,7 @@ export const files = {
         production_professional: [
           {
             key: "1JBAE-P3hdtPreORCwYB-rJJJn-J4uMbc",
-            gd_id: "",
+            gd_id: "1JBAE-P3hdtPreORCwYB-rJJJn-J4uMbc",
             label: "First semester",
             nodes: [
               {
@@ -866,7 +866,7 @@ export const files = {
           },
           {
             key: "1J7AwFmVlaElJyju-0U6yRhmpRAuInjOL",
-            gd_id: "",
+            gd_id: "1J7AwFmVlaElJyju-0U6yRhmpRAuInjOL",
             label: "Second semester",
             nodes: [
               {
@@ -923,7 +923,7 @@ export const files = {
         production_academic: [
           {
             key: "1I6IQTtEXRB8qNh25fSYqOLqD-hAHNMAk",
-            gd_id: "",
+            gd_id: "1I6IQTtEXRB8qNh25fSYqOLqD-hAHNMAk",
             label: "First semester",
             nodes: [
               {
@@ -990,7 +990,7 @@ export const files = {
           },
           {
             key: "1I3kNbsAbMg3NhbTzr6ubApUbqh_Lwlx8",
-            gd_id: "",
+            gd_id: "1I3kNbsAbMg3NhbTzr6ubApUbqh_Lwlx8",
             label: "Second semester",
             nodes: [
               {
@@ -1059,7 +1059,7 @@ export const files = {
         drilling: [
           {
             key: "1I3CEFk0iDZh_Z8545nLng1TPAYV1Z-ji",
-            gd_id: "",
+            gd_id: "1I3CEFk0iDZh_Z8545nLng1TPAYV1Z-ji",
             label: "First semester",
             nodes: [
               {
@@ -1120,7 +1120,7 @@ export const files = {
           },
           {
             key: "1I-pVZvTLLABwfcQfYkJFu3Bc6rYfJdfi",
-            gd_id: "",
+            gd_id: "1I-pVZvTLLABwfcQfYkJFu3Bc6rYfJdfi",
             label: "Second semester",
             nodes: [
               {
@@ -1177,7 +1177,7 @@ export const files = {
         oil_rig_mechanics: [
           {
             key: "1HnWzHhrjXKcFvf2SiXHK3mLX8BaEofuA",
-            gd_id: "",
+            gd_id: "1HnWzHhrjXKcFvf2SiXHK3mLX8BaEofuA",
             label: "First semester",
             nodes: [
               {
@@ -1244,7 +1244,7 @@ export const files = {
           },
           {
             key: "1JEOZ6COcSLMIt-V-kQ5Bas07qAGAZoEr",
-            gd_id: "",
+            gd_id: "1JEOZ6COcSLMIt-V-kQ5Bas07qAGAZoEr",
             label: "Second semester",
             nodes: [
               {
@@ -1305,7 +1305,7 @@ export const files = {
         production_professional: [
           {
             key: "1Vho4rYGmY6OK7Ru8y7T8JMBSz6Fh2fyG",
-            gd_id: "",
+            gd_id: "1Vho4rYGmY6OK7Ru8y7T8JMBSz6Fh2fyG",
             label: "First semester",
             nodes: [
               {
@@ -1354,7 +1354,7 @@ export const files = {
           },
           {
             key: "1Wi8bQNX_RI3a4nVEOz8QbEkeC9EMcsWG",
-            gd_id: "",
+            gd_id: "1Wi8bQNX_RI3a4nVEOz8QbEkeC9EMcsWG",
             label: "Second semester",
             nodes: [
               {
@@ -1405,7 +1405,7 @@ export const files = {
         production_academic: [
           {
             key: "1J20e8u_gCNaDKCKBTaaNQS8xw7u9QS-A",
-            gd_id: "",
+            gd_id: "1J20e8u_gCNaDKCKBTaaNQS8xw7u9QS-A",
             label: "First semester",
             nodes: [
               {
@@ -1460,7 +1460,7 @@ export const files = {
           },
           {
             key: "1J1uv6P5WD4BybcISmQAwCZCeVa4-i_EA",
-            gd_id: "",
+            gd_id: "1J1uv6P5WD4BybcISmQAwCZCeVa4-i_EA",
             label: "Second semester",
             nodes: [
               {
@@ -1523,7 +1523,7 @@ export const files = {
         drilling: [
           {
             key: "1J19Ui62qQVCx8QrDka04nFEe07-Ck-zm",
-            gd_id: "",
+            gd_id: "1J19Ui62qQVCx8QrDka04nFEe07-Ck-zm",
             label: "First semester",
             nodes: [
               {
@@ -1578,7 +1578,7 @@ export const files = {
           },
           {
             key: "1It4n62Gf0HccFdh2YFJTsEpSIMSoJn1z",
-            gd_id: "",
+            gd_id: "1It4n62Gf0HccFdh2YFJTsEpSIMSoJn1z",
             label: "Second semester",
             nodes: [
               {
@@ -1635,7 +1635,7 @@ export const files = {
         oil_rig_mechanics: [
           {
             key: "1Imvu55pbg0VmTG46FTWzXnccNpk-WhxR",
-            gd_id: "",
+            gd_id: "1Imvu55pbg0VmTG46FTWzXnccNpk-WhxR",
             label: "First semester",
             nodes: [
               {
@@ -1690,7 +1690,7 @@ export const files = {
           },
           {
             key: "1IkS43TSaIniHKEtPM3kTeZvyie2b0Egq",
-            gd_id: "",
+            gd_id: "1IkS43TSaIniHKEtPM3kTeZvyie2b0Egq",
             label: "Second semester",
             nodes: [
               {
@@ -1749,7 +1749,7 @@ export const files = {
         production_professional: [
           {
             key: "1YhgOoM1UWY2PO7Tglq5Xy4oTh5L77Vtv",
-            gd_id: "",
+            gd_id: "1YhgOoM1UWY2PO7Tglq5Xy4oTh5L77Vtv",
             label: "First semester",
             nodes: [
               {
@@ -1806,7 +1806,7 @@ export const files = {
         production_academic: [
           {
             key: "1YsaROmMfZvGE05oP0SaM82DfzuVWI336",
-            gd_id: "",
+            gd_id: "1YsaROmMfZvGE05oP0SaM82DfzuVWI336",
             label: "First semester",
             nodes: [
               {
@@ -1875,7 +1875,7 @@ export const files = {
         drilling: [
           {
             key: "1YkMHXY61khQF7o7F9Kzsb-lZOiHpZdoh",
-            gd_id: "",
+            gd_id: "1YkMHXY61khQF7o7F9Kzsb-lZOiHpZdoh",
             label: "First semester",
             nodes: [
               {
@@ -1926,7 +1926,7 @@ export const files = {
         oil_rig_mechanics: [
           {
             key: "1YhgOoM1UWY2PO7Tglq5Xy4oTh5L77Vtv",
-            gd_id: "",
+            gd_id: "1YhgOoM1UWY2PO7Tglq5Xy4oTh5L77Vtv",
             label: "First semester",
             nodes: [
               {

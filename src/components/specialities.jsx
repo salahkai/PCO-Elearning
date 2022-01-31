@@ -19,8 +19,8 @@ class Specialities extends Component {
               d="M0,192L1440,64L1440,320L0,320Z"
             ></path>
           </svg>
-          <div className="mb-5" id="specialities">
-            <div className="specialities-div p-0 p-0 pt-0 ">
+          <div className="mb-5 mt-0" id="specialities">
+            <div className="specialities-div m-0 p-0 pt-0 ">
               <Row
                 xs={1}
                 md={2}
