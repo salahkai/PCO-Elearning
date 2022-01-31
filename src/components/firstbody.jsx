@@ -50,7 +50,7 @@ class FirstBody extends Component {
             {/* <div className="row">
               <div className="col">
                 <img src={speLogo}></img>
-                {/* <img src={ouarglaLogo}></img> */}
+                {/* <img src={ouarglaLogo}></img> 
               </div>
             </div> */}
           </div>
