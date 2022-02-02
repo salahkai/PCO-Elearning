@@ -17,7 +17,7 @@ const Branches = () => {
     case "Geology":
       specialityId = 1;
       break;
-    case "RenewableEnergies":
+    case "Renewable_Energies":
       specialityId = 2;
       break;
   }

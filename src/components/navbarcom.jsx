@@ -2,7 +2,9 @@ import React, { Component } from "react";
 import { Container, Navbar, Nav } from "react-bootstrap";
 import Link from "react-router-dom";
 import logo from "../img/logo.svg";
-import ouarglaLogo from "../img/ouargla_logo.png";
+import univ from "../img/univ.png";
+import spe from "../img/spe.png";
+import pco from "../img/pco.png";
 
 import { LinkContainer } from "react-router-bootstrap";
 
@@ -30,15 +32,20 @@ class NavBarCom extends React.Component {
                   height="32"
                   className="d-inline-block align-top"
                 />{" "}
-                PCO ELearning
+                PCO E-learning
               </Navbar.Brand>
             </LinkContainer>
 
             <Navbar.Toggle aria-controls="responsive-navbar-nav"></Navbar.Toggle>
             <Navbar.Collapse id="responsive-navbar-nav">
-              {/* <Nav.Link style={{ color: "white" }} href="#login" disabled>
-                <img width="30%" src={ouarglaLogo}></img>
-              </Nav.Link> */}
+              <nav className="d-flex justify-content-start  ms-4">
+                <div className="d-sm-flex">
+                  <img className="mx-4" height="100px" src={spe}></img>
+                  <img className="mx-4" height="100px" src={pco}></img>
+                  <img className="mx-4" height="100px" src={univ}></img>
+                </div>
+              </nav>
+
               <Nav className="ms-auto">
                 <Nav.Link
                   style={{ color: "white" }}

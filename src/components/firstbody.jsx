@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 import { Card, Button } from "react-bootstrap";
 import img1 from "../img/1.svg";
-import speLogo from "../img/spe_logo.png";
-import ouarglaLogo from "../img/ouargla_logo.png";
-
 class FirstBody extends Component {
   state = {};
   render() {

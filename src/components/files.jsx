@@ -29,7 +29,7 @@ class Files extends React.Component {
           <div className="col-sm-9 col-d-9 col-12">
             <div>
               {this.state.googleDriveId == "" ? (
-                <h1 className="m-4">Please select the files type.</h1>
+                <h1 className="m-4">Please select a subject.</h1>
               ) : (
                 <iframe
                   src={
